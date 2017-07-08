@@ -89,3 +89,6 @@ C:\Users\Laptop\Documents\NewApp\NewApp\bin\System.Web.Helpers.xml
 C:\Users\Laptop\Documents\NewApp\NewApp\bin\System.Web.Mvc.xml
 C:\Users\Laptop\Documents\NewApp\NewApp\obj\Debug\NewApp.dll
 C:\Users\Laptop\Documents\NewApp\NewApp\obj\Debug\NewApp.pdb
+C:\Users\Laptop\Documents\NewApp\NewApp\obj\Debug\NewApp.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\NewApp\NewApp\bin\EntityFramework.dll
+C:\Users\Laptop\Documents\NewApp\NewApp\bin\EntityFramework.xml
