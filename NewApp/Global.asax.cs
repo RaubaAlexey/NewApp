@@ -11,6 +11,7 @@ namespace NewApp
     {
         protected void Application_Start()
         {
+            System.Data.Entity.Database.SetInitializer(new NewApp.Models.SampleData());
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
