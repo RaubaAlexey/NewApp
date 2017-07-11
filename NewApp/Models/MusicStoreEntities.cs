@@ -10,5 +10,7 @@ namespace NewApp.Models
     {
         public DbSet<Album> Albums { get; set; }
         public DbSet<Genre> Genres { get; set; }
+
+        public System.Data.Entity.DbSet<NewApp.Models.Artist> Artists { get; set; }
     }
 }
