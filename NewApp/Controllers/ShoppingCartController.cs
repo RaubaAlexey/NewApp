@@ -56,8 +56,7 @@ namespace NewApp.Controllers
             var cart = ShoppingCart.GetCart(this.HttpContext);
 
             // Get the name of the album to display confirmation
-            string albumName = storeDB.Carts
-                .Single(item => item.RecordId == id).Album.Title;
+            string albumName = storeDB.Carts.Single(item => item.RecordId == id).Album.Title;
 
             // Remove from cart
             int itemCount = cart.RemoveFromCart(id);

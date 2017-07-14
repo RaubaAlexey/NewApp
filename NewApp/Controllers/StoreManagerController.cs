@@ -6,7 +6,8 @@ using NewApp.Models;
 
 namespace NewApp.Controllers
 {
-    [Authorize(Roles = "Administrator")]
+    [Authorize(Roles = "Administrator")]
+
     public class StoreManagerController : Controller
     {
         private MusicStoreEntities db = new MusicStoreEntities();

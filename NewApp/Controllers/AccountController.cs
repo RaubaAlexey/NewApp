@@ -4,6 +4,7 @@ using System.Web.Security;
 using Mvc3ToolsUpdateWeb_Default.Models;
 using NewApp.Models;
 
+
 namespace Mvc3ToolsUpdateWeb_Default.Controllers
 {
     public class AccountController : Controller
@@ -159,6 +160,9 @@ namespace Mvc3ToolsUpdateWeb_Default.Controllers
         {
             return View();
         }
+
+
+       
 
         #region Status Codes
         private static string ErrorCodeToString(MembershipCreateStatus createStatus)

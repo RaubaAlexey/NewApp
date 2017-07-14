@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 namespace NewApp.Models
 {
@@ -23,6 +24,7 @@ namespace NewApp.Models
 
         public Genre Genre { get; set; }
         public Artist Artist { get; set; }
+        public virtual List<OrderDetail> OrderDetails { get; set; }
 
     }
 }
