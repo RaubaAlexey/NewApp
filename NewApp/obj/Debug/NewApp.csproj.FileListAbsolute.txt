@@ -185,3 +185,4 @@ C:\Users\Laptop\Documents\NewApp\NewApp\bin\EntityFramework.SqlServerCompact.dll
 C:\Users\Laptop\Documents\NewApp\NewApp\bin\System.Data.SqlServerCe.dll
 C:\Users\Laptop\Documents\NewApp\NewApp\bin\EntityFramework.SqlServer.xml
 C:\Users\Laptop\Documents\NewApp\NewApp\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\Laptop\Documents\NewApp\NewApp\obj\Debug\NewApp.csprojResolveAssemblyReference.cache
